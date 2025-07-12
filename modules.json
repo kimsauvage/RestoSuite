@@ -1,0 +1,30 @@
+{
+    "modules": [
+        {
+            "name": "Restaurant POS System",
+            "description": "A complete Point of Sale system designed specifically for restaurants.",
+            "version": "2.1.0",
+            "author": "CodeCanyon Developer",
+            "github_url": "https://github.com/example/restaurant-pos",
+            "codecanyon_url": "https://codecanyon.net/item/restaurant-pos-system/123456",
+            "demo_url": "https://demo.restaurant-pos.com",
+            "price": 89.00,
+            "currency": "USD",
+            "category": "Restaurant Management",
+            "tags": ["pos", "restaurant", "management", "laravel"],
+            "thumbnail_url": "https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=Restaurant+POS",
+            "preview_image_url": "https://via.placeholder.com/800x600/4CAF50/FFFFFF?text=Restaurant+POS+Preview",
+            "last_updated": "2024-01-15",
+            "is_featured": true,
+            "compatibility": {
+                "laravel": "10.x",
+                "php": "8.1+"
+            },
+            "requirements": {
+                "php": "8.1+",
+                "mysql": "5.7+"
+            },
+            "changelog": "Version 2.1.0: Added QR code menu system, improved reporting, bug fixes"
+        }
+    ]
+}
